@@ -29,8 +29,7 @@
   https://sfl.gl/3cb7t7
 
 # Follow me by
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]  
-[1]: https://www.facebook.com/kuhakku36
-[2]: https://www.instagram.com/kuhakku36
-  
+[![alt text][2.1]][2]
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2]:
+https://www.facebook.com/kuhakku36
