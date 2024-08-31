@@ -16,11 +16,11 @@
 
 > pkg install python -y
 
-> git clone https://github.com/Ainx-BOT/botfb
+> git clone https://github.com/kuhakkunew/fbliker
 
-> cd botfb
+> cd fbliker
 
-> python -m pip install -r requirements.txt
+> pip install -r requirements.txt
 
 > python run.py
 
