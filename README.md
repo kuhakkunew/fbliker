@@ -34,4 +34,6 @@
 
 # Follow me by
  
-  https://www.facebook.com/kuhakku36
+https://www.facebook.com/kuhakku36
+  
+https://www.instagram.com/kuhakku36
